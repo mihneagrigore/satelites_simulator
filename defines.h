@@ -1,0 +1,1 @@
+#define STRINGLEN 256
